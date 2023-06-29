@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>My Name is Tikku Gollu</h1>
+      <h1 >twikil</h1>
+      <h2>akhil</h2>
+      <img src="https://images.alphacoders.com/112/112121.jpg"  alt="random_image"/>
     </div>
   );
 }
